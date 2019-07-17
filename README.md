@@ -16,7 +16,7 @@ My first GitHub Project
 
 
 [Bitcoin] The first Coin from 2008.   
-[Bitcoin Cash] the first branch from Bitcoin by 2017. Github BitcoinABC. The branch coins have less meanning, because everyone can create a new branch from bitcoin. the only use is as testChain.    
-[LiteCoin] the first Copy coin from Bitcoin by 2011. Github Litecoin. The copy coins have less meaning, because everyone can create a new copy from Bitcoin.the only use is as testChain.         
+[Bitcoin Cash] the first branch from Bitcoin by 2017. Github BitcoinABC. The branch coins have less meanning, because everyone can create a new branch from bitcoin. Replaceable. Easy to be attacked. the only use is as testChain.    
+[LiteCoin] the first Copy coin from Bitcoin by 2011. Github Litecoin. The copy coins have less meaning, because everyone can create a new copy from Bitcoin.Replaceable. Easy to be attacked. the only use is as testChain.         
 [Ethereum] The BlockChain 2.0 from 2013. Github Go-Ethereum. Have good future.    
-[Monero] Real secret coin from 2014. Github Monero. Dangerous. but have future.     
+[Monero] Real secret coin from 2014. Github Monero. Dangerous. Easy to be attacked. but have future.     
