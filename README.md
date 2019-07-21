@@ -23,3 +23,6 @@ My first GitHub Project
 2019-7-21 [Monero]  
 [Q] Monero-wallet-cli:start_mining 3 true y. Monerod: 2019-07-21 01:12:16.532	I background mining is enabled, but not started, waiting until start triggers. 
 [A] 
+[Q] ~/monero-gui/build/release/bin$ monero-wallet-gui 
+monero-wallet-gui：未找到命令
+[A]
