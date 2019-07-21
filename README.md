@@ -20,3 +20,6 @@ My first GitHub Project
 [LiteCoin] the first Copy coin from Bitcoin by 2011. Github Litecoin. The copy coins have less meaning, because everyone can create a new copy from Bitcoin.Replaceable. Easy to be attacked. the only use is as testChain.         
 [Ethereum] The BlockChain 2.0 from 2013. Github Go-Ethereum. Have good future.    
 [Monero] Real secret coin from 2014. Github Monero. Dangerous. Easy to be attacked. but have future.     
+2019-7-21 [Monero]  
+[Q] Monero-wallet-cli:start_mining 3 true y. Monerod: 2019-07-21 01:12:16.532	I background mining is enabled, but not started, waiting until start triggers. 
+[A] 
