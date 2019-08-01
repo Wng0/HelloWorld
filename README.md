@@ -13,6 +13,12 @@ My first GitHub Project
 2019-7-16 [LiteCoin] Run LiteCoin on Windows.   
 
 2019-7-17 [Monero] Fork Monero.   
+2019-7-24 [Monero] Sumsun notebook with GPU, build Monero High Temperature, shut down.  
+2019-7-24 [Monero] Desktop Ubuntu run Monero-Wallet-GUI, 76H/S.
+
+2019-7-31 [Monero] Dell notebook Ubuntu run Monero-Wallet-GUI, 23H/S.
+2019-7-31 [Ethereum] Windows try Go-Ehereum cli.
+
 
 
 [Bitcoin] The first Coin from 2008.   
