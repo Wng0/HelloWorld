@@ -19,9 +19,9 @@ My first GitHub Project
 2019-7-30 [Ubuntu] Sumsun notbook high temperature shutdown. Need AMDGUPDriver, TLP power manager, Laptop-mode.   
 2019-7-30 [Monero] Dell notebook Ubuntu run Monero-Wallet-GUI, 23H/S. 75C       
 2019-7-31 [Ethereum] Windows try Go-Ehereum cli.    
-2019-8-2 [Monero] Sumsung run Monero-Wallet-GUI, 16H/S.78C. 
-2019-8-3 [Monero] Run Monero-Wallet-GUI on 315PC. Down load BlockChain very slow. after one week, start to mine, only 13H/S.  
-2019-8-9 [Monero] Start to mine XMR on F2Pool. using XMRig-cpu on Sumsung, 24H/S. using XMRrig-cpu on Dell notebook, 50H/S. compare to the Monero-wallet-GUI, the eficiency improved 100%. Guess for Desktop CPU, will be 150H/S. but not try. as no meaning, that lower than GPU (Highest, GTX660 300h/S, GTX1060 600h/S).            
+2019-8-2  [Monero] Sumsung run Monero-Wallet-GUI, 16H/S.78C. 
+2019-8-3  [Monero] Run Monero-Wallet-GUI on 315PC. Down load BlockChain very slow. after one week, start to mine, only 13H/S.  
+2019-8-9  [Monero] Start to mine XMR on F2Pool. using XMRig-cpu on Sumsung, 24H/S. using XMRrig-cpu on Dell notebook, 50H/S. compare to the Monero-wallet-GUI, the eficiency improved 100%. Guess for Desktop CPU, will be 150H/S. but not try. as no meaning, that lower than GPU (Highest, GTX660 300h/S, GTX1060 600h/S).            
 2019-8-10 [Monero] Mine XMR by GTX 660. using XMRig-Nvdia, 100H/S. by XMR-stak, 120H/S. 315CPU, very low, only 9H/S.       
 2019-8-11 [Monero] Mine XMR by GTX 1060, using XMR-stak, 400H/S, CPU 100H/S, for low temperature, stop CPU mining.  
 2019-8-13 [Monero] Optimize XMR-stak config, improve the GTX 1060, from 400H/S to 450H/S. 
