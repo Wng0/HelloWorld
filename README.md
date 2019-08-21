@@ -20,6 +20,10 @@ My first GitHub Project
 2019-7-30 [Monero] Dell notebook Ubuntu run Monero-Wallet-GUI, 23H/S. 75C       
 2019-7-31 [Ethereum] Windows try Go-Ehereum cli.
 
+2019-8-15 [Ethereum] try to mine ETH.
+2019-8-16 [Ethereum Classic] using official miner soft, Ethminer to mine ETC. but after around 3-4 hours, it stoped. not stable.    
+2019-8-18 [Ethereum Classic] using Claymore to mine ETC. very stable.   
+2019-8-20 [Ethereum Classic] Mine the first 0.1ETC. But can not check the balane in my ETC cli.   
 
 
 [Bitcoin] The first Coin from 2008.   
