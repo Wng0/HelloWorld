@@ -19,9 +19,16 @@ My first GitHub Project
 2019-7-30 [Ubuntu] Sumsun notbook high temperature shutdown. Need AMDGUPDriver, TLP power manager, Laptop-mode.   
 2019-7-30 [Monero] Dell notebook Ubuntu run Monero-Wallet-GUI, 23H/S. 75C       
 2019-7-31 [Ethereum] Windows try Go-Ehereum cli.
+2019-8-9 [Monero] Start to mine XMR on F2Pool.    
+2019-8-10 [Monero]  Mine XMR by GTX 660. using XMRig, 100H/S. by XMR-stak, 120H/S. 315CPU, very low, only 9H/S.     
+2019-8-11 [Monero] Mine XMR by GTX 1060, using XMR-stak, 400H/S.
+2019-8-13 [Monero] Optimize XMR-stak config, improve the GTX 1060, from 400H/S to 450H/S.
+2019-8-15 [Ethereum] try to mine ETH. 
+2019-8-16 [Ethereum] After calculation, ETH, ETC, XMR.... have the same mining efficiet, very fair. then Mining ETC will be the fastest way for me. because the Price is low, then Less miner, more mining result, fast pay by pool.         
+2019-8-16 [Ethereum Classic] using official miner soft, Ethminer to mine ETC. but after around 3-4 hours, it stoped. not stable. 
+2019-8-17 [Monero] Optimize XMR-stak config, improve the GTX 660, from 120H/S to 200H/S.    
+2019-8-17 [Ethereum Classic] 
 
-2019-8-15 [Ethereum] try to mine ETH.
-2019-8-16 [Ethereum Classic] using official miner soft, Ethminer to mine ETC. but after around 3-4 hours, it stoped. not stable.    
 2019-8-18 [Ethereum Classic] using Claymore to mine ETC. very stable.   
 2019-8-20 [Ethereum Classic] Mine the first 0.1ETC. But can not check the balane in my ETC cli.   
 
