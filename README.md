@@ -36,7 +36,7 @@ My first GitHub Project
 2019-8-20 [Ethereum Classic] Mine the first 0.1ETC. But can not check the balane in my ETC cli.   
 2019-8-21 [Ethereum Classic] After fast systh mode finished, auto disable and change to "import". then the account balance show my value 0.1ETC.      
 2019-8-28 [Market] Huobi/ Huobi Pro, one of the top3 market in China. BitMex, one of the biggest in world. Binance, one of the top 3 in China. but can not connect. OKEx.     
-2019-9-4 [Market] Binance.net, Signed.    
+2019-9-4 [Market] Binance.net, Signed. but can not exchange current. OkEx.me, signed. but only after ID check, then can exchange currents.      
 
 [Bitcoin] The first Coin from 2008.   
 [Bitcoin Cash] the first branch from Bitcoin by 2017. Github BitcoinABC. The branch coins have less meanning, because everyone can create a new branch from bitcoin. Replaceable. Easy to be attacked. the only use is as testChain.    
