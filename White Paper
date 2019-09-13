@@ -11,7 +11,12 @@ Enemy
 low Level, only low Gun/1, no Armor/0. 
 Mid Level, Mid Gun/2, Low Armor/1. 
 High Level, High Gun/3, Mid Armor/2. 
-Boss, High Gun/3, High Armor/3
+Boss, High Gun/3, High Armor/3.
+
+Map
+Low level, with low level enemy, but one Mid level enemy as boss.
+Mid Level, with mid level enemy, but one high level enemy as boss.
+High Level, with high level enemy, but one Real boss.
 
 Shoot Game, have the Armor. Then have the motivition to Kill more Enemy for Stronger Gun.
 Shoot Game, can assemble new parts for the Gun. Then have the motivation to collect rubbish.  
